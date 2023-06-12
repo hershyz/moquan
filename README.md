@@ -1,7 +1,7 @@
 # moquan
 TensorFlow LSTM Time Series Algorithm for Stock Market Forecasting
 
-[This inference model](https://github.com/hershyz/moquan/releases/tag/v1) was trained to forecast 10 stocks on data from May 18th, 2012 to June 9th, 2023:
+[This inference model](https://github.com/hershyz/moquan/releases/tag/v1) was trained to forecast the following 10 stocks on data from May 18th, 2012 to June 9th, 2023:
 - AAPL
 - AMD
 - AMZN
