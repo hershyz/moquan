@@ -28,4 +28,18 @@ Dependencies (pip):
 ```
 
 **Step 3:**  
-Update the ticker array in the [model wrapper class](https://github.com/hershyz/moquan/blob/main/wrapper.py) as needed. Then, [test predictions](https://github.com/hershyz/moquan/blob/main/test_predictions.py).
+Update the ticker array in the [model wrapper class](https://github.com/hershyz/moquan/blob/main/wrapper.py) as needed. Then, [test predictions](https://github.com/hershyz/moquan/blob/main/test_predictions.py).  
+
+<br>
+
+### Training Results ([view in notebook](https://deepnote.com/workspace/hershey-081c52c1-1c94-4f55-bc37-630a0fb3fcd3/project/moquan-bca18ada-d83c-41f4-9d91-200d3dfbef3b/notebook/Training-a2269410652c458c9eff766cbdb2ffb1)):
+![AAPL](https://raw.githubusercontent.com/hershyz/moquan/main/matplotlib/AAPL.png)
+![AMD](https://raw.githubusercontent.com/hershyz/moquan/main/matplotlib/AMD.png)
+![AMZN](https://raw.githubusercontent.com/hershyz/moquan/main/matplotlib/AMZN.png)
+![AVGO](https://raw.githubusercontent.com/hershyz/moquan/main/matplotlib/AVGO.png)
+![GOOG](https://raw.githubusercontent.com/hershyz/moquan/main/matplotlib/GOOG.png)
+![INTC](https://raw.githubusercontent.com/hershyz/moquan/main/matplotlib/INTC.png)
+![META](https://raw.githubusercontent.com/hershyz/moquan/main/matplotlib/META.png)
+![MSFT](https://raw.githubusercontent.com/hershyz/moquan/main/matplotlib/MSFT.png)
+![NVDA](https://raw.githubusercontent.com/hershyz/moquan/main/matplotlib/NVDA.png)
+![ORCl](https://raw.githubusercontent.com/hershyz/moquan/main/matplotlib/ORCL.png)
