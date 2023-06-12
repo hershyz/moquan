@@ -28,4 +28,4 @@ Dependencies (pip):
 ```
 
 **Step 3:**  
-Update the ticker array in the [wrapper class](https://github.com/hershyz/moquan/blob/main/wrapper.py) as needed and then [test predictions](https://github.com/hershyz/moquan/blob/main/test_predictions.py).
+Update the ticker array in the [model wrapper class](https://github.com/hershyz/moquan/blob/main/wrapper.py) as needed. Then, [test predictions](https://github.com/hershyz/moquan/blob/main/test_predictions.py).
