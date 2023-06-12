@@ -1,0 +1,12 @@
+META
+AAPL
+AMZN
+GOOG
+NVDA
+AMD
+INTC
+AVGO
+MSFT
+ORCL
+
+date bottleneck: may 18, 2012 (META)
