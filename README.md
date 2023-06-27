@@ -17,7 +17,7 @@ TensorFlow LSTM Time Series Algorithm for Stock Market Forecasting
 Use the [build_dataset script](https://github.com/hershyz/moquan/blob/main/build_dataset.py) to convert individual ticker CSV data from [Yahoo Finance's Historical Data tool](https://finance.yahoo.com/quote/MSFT/history?period1=511056000&period2=1686528000&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true) to a [complete training dataset](https://github.com/hershyz/moquan/blob/main/stock_dataset.csv).
 
 **Step 2:**  
-Run the [TensorFlow training algorithm](https://github.com/hershyz/moquan/blob/main/training.py), updating the ticker array and input shape as needed. Currently, the input shape is ```(5, 10)``` -- (10 input features and 5 previous time series point per prediction).    
+Run the [TensorFlow training algorithm](https://github.com/hershyz/moquan/blob/main/training.py), updating the ticker array and input shape as needed. By default, the input shape is ```(5, 10)``` -- (10 input features and 5 previous time series point per prediction).    
 
 ```
 Dependencies (pip):
